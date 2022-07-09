@@ -71,4 +71,6 @@ Here is the project pattern:
 <a id="section05"></a> 
 ## Features 
 <p align="center"><a href="https://github.com/lprtk/lprtk">My profil</a> • 
-<a href="https://github.com/lprtk/lprtk">My GitHub</a></p>
+<a href="https://github.com/lprtk/lprtk">My GitHub</a> • 
+<a href="https://github.com/Mcompetitions/M5-methods/blob/master/M5-Competitors-Guide.pdf">Inspired by the M5 competition</a>
+</p>
